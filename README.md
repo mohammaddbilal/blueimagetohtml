@@ -1,2 +1,2 @@
 # blueimagetohtml
-blueblueblue
+blue
